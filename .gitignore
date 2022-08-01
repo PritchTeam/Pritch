@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Plugins/DlgSystem-master.rar
+Plugins/DlgSystem-master.zip
+Content/FirstPersonBP/Blueprints/Materials/HeightColorChangeMAT.uasset
+Content/FirstPersonBP/Blueprints/Materials/HeightColorChangeMAT_Crater.uasset
