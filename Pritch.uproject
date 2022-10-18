@@ -8,6 +8,11 @@
 			"Name": "EasyBallistics",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bbecde0f66914263b57fd2af5a0c7ffe"
+		},
+		{
+			"Name": "BlueprintAssist",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
 		}
 	]
 }
