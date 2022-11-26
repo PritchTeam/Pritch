@@ -18,6 +18,11 @@
 			"Name": "DirectExcel",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/59f434efddeb4c93b27c8e05719664f1"
+		},
+		{
+			"Name": "DlgSystem",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d0255a60be340dfa1c556503cc57eb3"
 		}
 	]
 }
